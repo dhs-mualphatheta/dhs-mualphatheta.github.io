@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Darien Mu Alpha Theta</title>
+    <title>Darien Mu Alpha Theta</title>
     <link>https://dhs-mualphatheta.github.io/categories/</link>
-    <description>Recent content in Categories on Darien Mu Alpha Theta</description>
+    <description>Recent content on Darien Mu Alpha Theta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 21:28:43 -0500</lastBuildDate>
@@ -12,16 +12,16 @@
     
     
     <item>
-      <title></title>
-      <link>https://dhs-mualphatheta.github.io/categories/</link>
+      <title>AMC</title>
+      <link>https://dhs-mualphatheta.github.io/amc/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
-      <guid>https://dhs-mualphatheta.github.io/categories/</guid>
-      <description></description>
+      <guid>https://dhs-mualphatheta.github.io/amc/</guid>
+      <description>Generic application stuff</description>
     </item>
     
-  </channel>
-</rss>e>
+    <item>
+      <title>AMC</title>
       <link>https://dhs-mualphatheta.github.io/amc/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
@@ -125,7 +125,7 @@
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
       <guid>https://dhs-mualphatheta.github.io/membership/</guid>
-      <description>Being a member of Mu Alpha Theta is a great idea!</description>
+      <description>People should be in Mu Alpha Theta as soon as possible</description>
     </item>
     
     <item>
@@ -134,7 +134,7 @@
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
       <guid>https://dhs-mualphatheta.github.io/membership/</guid>
-      <description>Being a member of Mu Alpha Theta is a great idea!</description>
+      <description>People should be in Mu Alpha Theta as soon as possible</description>
     </item>
     
   </channel>
