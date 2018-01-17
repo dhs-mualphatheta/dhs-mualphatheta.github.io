@@ -49,20 +49,11 @@
     
     <item>
       <title>Applications</title>
-      <link>https://dhs-mualphatheta.github.io/membership/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://dhs-mualphatheta.github.io/membership/</guid>
-      <description>Generic application stuff</description>
-    </item>
-    
-    <item>
-      <title>Applications</title>
       <link>https://dhs-mualphatheta.github.io/mualphatheta/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
       
       <guid>https://dhs-mualphatheta.github.io/mualphatheta/</guid>
-      <description>Generic application stuff</description>
+      <description>Mu Alpha Theta is great!</description>
     </item>
     
     <item>
@@ -72,6 +63,15 @@
       
       <guid>https://dhs-mualphatheta.github.io/piday2018/</guid>
       <description>Generic application stuff</description>
+    </item>
+    
+    <item>
+      <title>Membership</title>
+      <link>https://dhs-mualphatheta.github.io/membership/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://dhs-mualphatheta.github.io/membership/</guid>
+      <description>Being a member of Mu Alpha Theta is a great idea!</description>
     </item>
     
   </channel>
