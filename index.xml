@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Darien Mu Alpha Theta</title>
+    <link>https://dhs-mualphatheta.github.io/</link>
+    <description>Recent content on Darien Mu Alpha Theta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 21:28:43 -0500</lastBuildDate>
+    
+	<atom:link href="https://dhs-mualphatheta.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AMC</title>
+      <link>https://dhs-mualphatheta.github.io/amc/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://dhs-mualphatheta.github.io/amc/</guid>
+      <description>Generic application stuff</description>
+    </item>
+    
+    <item>
+      <title>Applications</title>
+      <link>https://dhs-mualphatheta.github.io/applications/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://dhs-mualphatheta.github.io/applications/</guid>
+      <description>Generic application stuff</description>
+    </item>
+    
+    <item>
+      <title>Applications</title>
+      <link>https://dhs-mualphatheta.github.io/mathmodeling/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://dhs-mualphatheta.github.io/mathmodeling/</guid>
+      <description>Generic application stuff</description>
+    </item>
+    
+    <item>
+      <title>Applications</title>
+      <link>https://dhs-mualphatheta.github.io/mathteam/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://dhs-mualphatheta.github.io/mathteam/</guid>
+      <description>Generic application stuff</description>
+    </item>
+    
+    <item>
+      <title>Applications</title>
+      <link>https://dhs-mualphatheta.github.io/membership/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://dhs-mualphatheta.github.io/membership/</guid>
+      <description>Generic application stuff</description>
+    </item>
+    
+    <item>
+      <title>Applications</title>
+      <link>https://dhs-mualphatheta.github.io/mualphatheta/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://dhs-mualphatheta.github.io/mualphatheta/</guid>
+      <description>Generic application stuff</description>
+    </item>
+    
+    <item>
+      <title>Applications</title>
+      <link>https://dhs-mualphatheta.github.io/piday2018/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://dhs-mualphatheta.github.io/piday2018/</guid>
+      <description>Generic application stuff</description>
+    </item>
+    
+  </channel>
+</rss>
