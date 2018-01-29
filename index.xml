@@ -45,15 +45,6 @@ Historian/Public Relations Officer: Griffin Ott</description>
     </item>
     
     <item>
-      <title>Applications</title>
-      <link>https://dhs-mualphatheta.github.io/piday2018/</link>
-      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
-      
-      <guid>https://dhs-mualphatheta.github.io/piday2018/</guid>
-      <description>Generic application stuff</description>
-    </item>
-    
-    <item>
       <title>DHS Math Team</title>
       <link>https://dhs-mualphatheta.github.io/mathteam/</link>
       <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
@@ -87,6 +78,15 @@ https://m3challenge.siam.org/</description>
       <guid>https://dhs-mualphatheta.github.io/membership/</guid>
       <description>As a member of Mu Alpha Theta, you are expected to attend the club&amp;rsquo;s meetings and compete in the AMC and Log(1) competitions.
 Absences from more than 3 meetings will result in loss of membership.</description>
+    </item>
+    
+    <item>
+      <title>Pi Day 2018</title>
+      <link>https://dhs-mualphatheta.github.io/piday2018/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>https://dhs-mualphatheta.github.io/piday2018/</guid>
+      <description>Details coming soon.</description>
     </item>
     
   </channel>
